@@ -1,5 +1,6 @@
 # Datatypes-Read and Print a String in Python
 Reg:212223040190
+
 Name: SHAHIN J
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
